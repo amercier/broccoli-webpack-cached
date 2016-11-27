@@ -8,7 +8,7 @@
     "broccoli-plugin": "^1.0.0",
     "mkdirp": "^0.5.1",
     "rsvp": "^3.0.20",
-    "symlink-or-copy": "^1.0.1",
+    "symlink-or-copy": "^1.1.7",
     "webpack": "^1.10.5"
   },
   "devDependencies": {},
